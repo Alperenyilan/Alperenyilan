@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<p>Interested in Front-End Development</p>
+<p>Interested in Full Stack Development</p>
 <p>React Learner</p>
 <p>İnformation Systems Engineer</p>
 
